@@ -1,6 +1,8 @@
 <?php 
 //koneksi ke database
 //(host, user, pw, nama database)
+//(host, user, pw, nama database)
+
 $db = mysqli_connect("localhost", "root", "", "db_phpdasarrr");
 
 //ambil data dari table
